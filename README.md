@@ -1,4 +1,9 @@
 # weather_detection
-The project tells about the weather of the city and speaks about the temperature.
-it gives the temperature of any city you give the name and the compiler speaks the temperature of the given city.
-This is to detect the particular city weather
+
+The project provides information about the weather of a given city and verbalizes the temperature. It furnishes the temperature for any city whose name you provide, and the compiler vocalizes the temperature of the specified city. The purpose is to detect the weather conditions of a particular city.
+
+
+
+
+
+
